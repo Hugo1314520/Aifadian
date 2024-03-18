@@ -1,0 +1,10 @@
+name: jiania
+version: '1.0-SNAPSHOT'
+main: jiania.jiania.Jiania
+#创建插件
+commands:
+  jiania:
+    #文件名称
+    description: "简易创造模式"
+    permission: jiania.main
+    aliases: gm
